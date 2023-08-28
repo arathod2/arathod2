@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amol Rathod
 - 👀 I’m interested in Data Scienceand AI
 - 🌱 I’m currently learning Msc Data Science and AI from University of Liverpool
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Deep-learning Projects
 - 📫 How to reach me arathod2@gmail.com
 
 <!---
